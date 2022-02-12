@@ -162,8 +162,10 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap \
     libpiex_shim
+
+PRODUCT_PACKAGES += \
+    GrapheneCamera
 
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.device@1.0.vendor \
