@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_spes.mk
+    $(LOCAL_DIR)/xdroid_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_spes-user \
-    evolution_spes-userdebug \
-    evolution_spes-eng
+    xdroid_spes-user \
+    xdroid_spes-userdebug \
+    xdroid_spes-eng
